@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>De Grijze Kat</title>
+    <link href="https://degrijzekat.be/feed.xml" rel="self" />
+    <link href="https://degrijzekat.be" />
+    <updated>2025-10-13T10:12:23+02:00</updated>
+    <author>
+        <name>Mathias Van Aken</name>
+    </author>
+    <id>https://degrijzekat.be</id>
+
+    <entry>
+        <title>Geschiedenis</title>
+        <author>
+            <name>Mathias Van Aken</name>
+        </author>
+        <link href="https://degrijzekat.be/geschiedenis.html"/>
+        <id>https://degrijzekat.be/geschiedenis.html</id>
+        <media:content url="https://degrijzekat.be/media/posts/15/efft0042.JPG" medium="image" />
+            <category term="Wie_zijn_wij"/>
+
+        <updated>2017-10-15T22:38:38+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://degrijzekat.be/media/posts/15/efft0042.JPG" class="type:primaryImage" alt="" /></p>
+                <div class="post__iframe"><iframe loading="lazy" width="100%" height="1000" src="https://drive.google.com/embeddedfolderview?id=0BwgsoezpnDN1ckpITWV2RkczMUU#grid" frameborder="0"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Contact</title>
+        <author>
+            <name>Mathias Van Aken</name>
+        </author>
+        <link href="https://degrijzekat.be/contact.html"/>
+        <id>https://degrijzekat.be/contact.html</id>
+        <media:content url="https://degrijzekat.be/media/posts/13/2009-image0052.jpg" medium="image" />
+
+        <updated>2017-10-14T19:55:03+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://degrijzekat.be/media/posts/13/2009-image0052.jpg" alt="" />
+                    Verantwoordelijke Jo DriesDamplein 122060 Antwerpen03 233 48 25secretariaat [a] degrijzekat.be Kaart Contactformulier Via het onderstaande formulier kan u met ons in contact treden. Naam: E-mailadres: Uw bericht: Versturen
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://degrijzekat.be/media/posts/13/2009-image0052.jpg" class="type:primaryImage" alt="" /></p>
+                <h2>Verantwoordelijke</h2>
+<address>Jo Dries</address><address>Damplein 12</address><address>2060 Antwerpen</address><address>03 233 48 25</address><address>secretariaat [a] degrijzekat.be</address>
+<h2>Kaart</h2>
+<div class="post__iframe"><iframe loading="lazy" width="100%" height="450" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19985.574989430384!2d4.425143!3d51.233869!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3f7adfee1f493%3A0xad32b55e1b0a29e0!2sDamplein+12%2C+2060+Antwerpen%2C+Belgi%C3%AB!5e0!3m2!1snl!2sus!4v1508003192830" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<h2>Contactformulier</h2>
+<p>Via het onderstaande formulier kan u met ons in contact treden.</p>
+<form id="contact-us-form" style="display: flex; width: 100%;" action="/bedankt" method="POST" data-netlify="true">
+<div style="width: 20%; padding: 10px;"><!-- Linkerkolom -->
+<div style="margin-bottom: 15px;"><label for="naam">Naam:</label></div>
+<div style="margin-bottom: 15px;"><label for="email">E-mailadres:</label></div>
+<div style="margin-bottom: 15px;"><label for="bericht">Uw bericht:</label></div>
+<div> </div>
+</div>
+<div style="width: 80%; padding: 10px;"><!-- Rechterkolom -->
+<div style="margin-bottom: 15px;"><input id="naam" class="form-control" style="width: 100%;" name="naam" required="" type="text"></div>
+<div style="margin-bottom: 15px;"><input id="email" class="form-control" style="width: 100%;" name="email" required="" type="email"></div>
+<div style="margin-bottom: 15px;"><textarea id="bericht" class="form-control" style="width: 100%;" name="bericht" required=""></textarea></div>
+<div><button class="btn btn-primary g-recaptcha" type="submit" data-badge="inline">Versturen</button></div>
+</div>
+</form>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Steun ons</title>
+        <author>
+            <name>Mathias Van Aken</name>
+        </author>
+        <link href="https://degrijzekat.be/hulp-is-welkom.html"/>
+        <id>https://degrijzekat.be/hulp-is-welkom.html</id>
+        <media:content url="https://degrijzekat.be/media/posts/12/efft0037.JPG" medium="image" />
+
+        <updated>2017-10-14T17:15:16+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://degrijzekat.be/media/posts/12/efft0037.JPG" alt="" />
+                    Als je denkt ons op vrijwillige basis te kunnen helpen dan ben je altijd welkom. Schrijf gerust een e-mail. Het kan ook eenvoudiger door ons werk financieel te steunen via dit rekeningnummer: BE54 4127 0418 3197
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://degrijzekat.be/media/posts/12/efft0037.JPG" class="type:primaryImage" alt="" /></p>
+                <p>Als je denkt ons op vrijwillige basis te kunnen helpen dan ben je altijd welkom. Schrijf gerust een e-mail. Het kan ook eenvoudiger door ons werk financieel te steunen via dit rekeningnummer:</p>
+<p class="msg msg--highlight "><strong>BE54 4127 0418 3197</strong></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Waarom een kat?</title>
+        <author>
+            <name>Mathias Van Aken</name>
+        </author>
+        <link href="https://degrijzekat.be/waarom-een-kat.html"/>
+        <id>https://degrijzekat.be/waarom-een-kat.html</id>
+        <media:content url="https://degrijzekat.be/media/posts/3/tekst-over-kat-1954.jpg" medium="image" />
+            <category term="Wie_zijn_wij"/>
+
+        <updated>2017-10-12T23:15:43+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://degrijzekat.be/media/posts/3/tekst-over-kat-1954.jpg" alt="" />
+                    Een kat is taai En maakt niet veel lawaai Een kat dringt overal binnen En kan steeds opnieuw beginnen En wordt een kat eens groot Dan krijgt men ze niet gauw dood. Jeugdbewegingen hebben meestal een symbool. Wij houden het bij een eenvoudige straatkat, zonder&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://degrijzekat.be/media/posts/3/tekst-over-kat-1954.jpg" class="type:primaryImage" alt="" /></p>
+                <p class="msg msg--highlight ">Een kat is taai<br>En maakt niet veel lawaai<br>Een kat dringt overal binnen<br>En kan steeds opnieuw beginnen<br>En wordt een kat eens groot<br>Dan krijgt men ze niet gauw dood.</p>
+<p>Jeugdbewegingen hebben meestal een symbool. Wij houden het bij een eenvoudige straatkat, zonder adel of stamboom, die ergens in de huizenrij haar plan moet trekken, die taai is en veel kan verdragen, die in de harde levensstrijd nooit de moed verliest.</p>
+<p>Vele van onze jongens en meisjes hebben het moeilijk, thuis en op school. Dikwijls weten ze reeds vroeg wat ontbering is. Onze samenleving is niet mild voor hen...</p>
+<p>De Club &ldquo;De Grijze Kat&rdquo; wil nu nog altijd een organisatie met en voor kansarmen zijn. De oorspronkelijke christelijke inspiratie hebben we in die meer dan zestig jaar niet afgezworen en dat maakt ons enigszins apart in het landschap van de pluralistische Antwerpse welzijnsorganisaties.</p>
+<p><img loading="lazy" src="https://degrijzekat.be/media/posts/3/kat.jpg" alt="" width="292" height="418" sizes="(max-width: 48em) 100vw, 768px" srcset="https://degrijzekat.be/media/posts/3/responsive/kat-xs.jpg 300w ,https://degrijzekat.be/media/posts/3/responsive/kat-sm.jpg 480w ,https://degrijzekat.be/media/posts/3/responsive/kat-md.jpg 768w"></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Onze stichter</title>
+        <author>
+            <name>Mathias Van Aken</name>
+        </author>
+        <link href="https://degrijzekat.be/onze-oprichter.html"/>
+        <id>https://degrijzekat.be/onze-oprichter.html</id>
+        <media:content url="https://degrijzekat.be/media/posts/2/2_priester1.jpg" medium="image" />
+            <category term="Wie_zijn_wij"/>
+
+        <updated>2017-10-12T23:15:18+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://degrijzekat.be/media/posts/2/2_priester1.jpg" alt="" />
+                    In 1945 heeft pater Jan Cuijle, redemptorist, de "Straatjongensclub De Grijze Kat" opgericht. Hij nodigde jongeren uit die juist na de oorlog in de stad op straat zwierven, in zijn "clubhuis", oorspronkelijk een kelder van het klooster op het Hopland. Enkele jaren later vond de&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://degrijzekat.be/media/posts/2/2_priester1.jpg" class="type:primaryImage" alt="" /></p>
+                <p>In 1945 heeft pater Jan Cuijle, redemptorist, de "Straatjongensclub De Grijze Kat" opgericht. Hij nodigde jongeren uit die juist na de oorlog in de stad op straat zwierven, in zijn "clubhuis", oorspronkelijk een kelder van het klooster op het Hopland. Enkele jaren later vond de organisatie een onderkomen in een gebouw aan de Amsterdamstraat op het Eilandje, een wijk van arme schippers. Pater Cuijle liet op de muren van de zaal &ldquo;Christus Vincit&rdquo; schilderen. Het was meteen ook de diepe inspiratie: in de onmenselijke toestand waarin de kansarme bewoners van een grootstad na de oorlog terecht kwamen, was bovenmenselijke hulp nodig. God wil het leven en niet de dood; mensen hebben recht op volheid van leven in plaats van vernederende armoede.</p>
+<p>Pater Cuijle overleed op 10 april 1981 aan een zware hartziekte. Zijn club, de Grijze Kat, zet zijn levenswerk nog steeds even enthousiast verder.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Welkom</title>
+        <author>
+            <name>Mathias Van Aken</name>
+        </author>
+        <link href="https://degrijzekat.be/welkom.html"/>
+        <id>https://degrijzekat.be/welkom.html</id>
+        <media:content url="https://degrijzekat.be/media/posts/1/GrijzeKat.jpg" medium="image" />
+            <category term="Wie_zijn_wij"/>
+
+        <updated>2017-10-12T23:14:17+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://degrijzekat.be/media/posts/1/GrijzeKat.jpg" alt="" />
+                    Welkom Welkom op de webstek van Club De Grijze Kat VZW! Wij zijn een buurtwerking in Antwerpen-Noord, die zich specifiek richt op de zgn. "Vierde Wereld", lokale kansarmen. Wij nodigen de bezoeker van deze website uit om via deze website meer over ons te leren.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://degrijzekat.be/media/posts/1/GrijzeKat.jpg" class="type:primaryImage" alt="" /></p>
+                <h2>Welkom</h2>
+<div class="columnsContainer">
+<div class="leftColumn">
+<p>Welkom op de webstek van Club De Grijze Kat VZW! Wij zijn een buurtwerking in Antwerpen-Noord, die zich specifiek richt op de zgn. "Vierde Wereld", lokale kansarmen.</p>
+<p>Wij nodigen de bezoeker van deze website uit om via deze website meer over ons te leren. Indien u onze werking wil <a href="https://degrijzekat.be/hulp-is-welkom.html">steunen</a>, financieel, materieel, of met concrete acties, aarzel dan niet om contact op te nemen!<br><br></p>
+<div class="fb-page" data-href="https://www.facebook.com/grijzekat/" data-tabs="timeline" data-width="500" data-height="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+<blockquote class="fb-xfbml-parse-ignore" cite="https://www.facebook.com/grijzekat/"><a href="https://www.facebook.com/grijzekat/">De Grijze Kat</a></blockquote>
+</div>
+</div>
+<div class="rightColumn"><div class="post__iframe"><iframe loading="lazy" width="300" height="400" style="border-width: 0;" src="https://calendar.google.com/calendar/embed?showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=v9s8ti9n9ufrejhr91q37qksp0%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=Europe%2FBrussels" frameborder="0" scrolling="no"></iframe></div></div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Spiritualiteit</title>
+        <author>
+            <name>Mathias Van Aken</name>
+        </author>
+        <link href="https://degrijzekat.be/spiritualiteit.html"/>
+        <id>https://degrijzekat.be/spiritualiteit.html</id>
+        <media:content url="https://degrijzekat.be/media/posts/5/img_3236.JPG" medium="image" />
+
+        <updated>2017-09-12T23:24:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://degrijzekat.be/media/posts/5/img_3236.JPG" alt="" />
+                    In onze werking naar de kinderen lopen we zeker niet met een grote boog om het geloof heen. Al sinds het ontstaan vieren we Allerheiligen, Kerstmis en Pasen eerst beneden in de kapel en dan boven aan de feesttafel. Iedereen is welkom &ndash; met respect&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://degrijzekat.be/media/posts/5/img_3236.JPG" class="type:primaryImage" alt="" /></p>
+                <p>In onze werking naar de kinderen lopen we zeker niet met een grote boog om het geloof heen. Al sinds het ontstaan vieren we Allerheiligen, Kerstmis en Pasen eerst beneden in de kapel en dan boven aan de feesttafel. Iedereen is welkom &ndash; met respect voor de eigen levensbeschouwing. Ook wie niet naar de viering komt, mag mee Kerstmis vieren.</p>
+<p>We willen mensen niet lokken naar de kapel met het vooruitzicht van de lekkere maaltijd achteraf. Voor ons blijft het echter onlosmakelijk met elkaar verbonden: enerzijds de solidariteit met kinderen en volwassen die door het leven en de maatschappij niet verwend worden en anderzijds het geloof dat God liefde is en mensen liefheeft, misschien nog het meest de mensen aan de kant die Hij in het middelpunt van Zijn aandacht zet.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Voedselbedeling</title>
+        <author>
+            <name>Mathias Van Aken</name>
+        </author>
+        <link href="https://degrijzekat.be/voedselbedeling.html"/>
+        <id>https://degrijzekat.be/voedselbedeling.html</id>
+        <media:content url="https://degrijzekat.be/media/posts/6/voedslbank_2-003.jpg" medium="image" />
+
+        <updated>2017-08-12T23:24:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://degrijzekat.be/media/posts/6/voedslbank_2-003.jpg" alt="" />
+                    Voedselbedeling Met de voedselbedeling bereiken wij een 80-tal gezinnen en alleenstaanden (+/- 250 personen) van zowel allochtone als autochtone afkomst. De bedeling gebeurt op donderdag om de 2 weken. Omdat de groep te groot is om samen te ontvangen, komt een eerste groep van 12.30&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://degrijzekat.be/media/posts/6/voedslbank_2-003.jpg" class="type:primaryImage" alt="" /></p>
+                <h2>Voedselbedeling</h2>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/TlXt-lQ8kkw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+<p>Met de voedselbedeling bereiken wij een 80-tal gezinnen en alleenstaanden (+/- 250 personen) van zowel allochtone als autochtone afkomst. De bedeling gebeurt op donderdag om de 2 weken. Omdat de groep te groot is om samen te ontvangen, komt een eerste groep van 12.30 tot 13.30u en een tweede groep van 13.30 tot 14.30 uur.</p>
+<p>De mensen worden onthaald met koffie of thee en een versnapering. Het onthaal vinden we zeer belangrijk. Het leert ons de problematiek van de armoede beter begrijpen, maar vooral willen we ons respect en onze vriendschap tonen voor hen die minder fortuinlijk zijn in het leven dan wij.</p>
+<p>De voedselbedeling heeft een eigen ploeg vrijwilligers. Mensen uit de doelgroep worden hierin ook betrokken, waardoor ze in plaats van een hulpbehoevende een medewerker worden.</p>
+<p>We trachten ook een wisselwerking door te voeren tussen de verschillende werkingsvelden. Gezinnen met kinderen die naar de voedselbedeling komen, proberen we ook aan te spreken voor de jeugdwerking. Het Sint-Niklaasfeest is hier de jaarlijkse topper.</p>
+<p>Maar ook op onze feesten met Kerstmis, Pasen en Allerheiligen worden de mensen van de voedselbedeling uitgenodigd. Hier combineren we telkens een religieuze viering met een verzorgd feestmaal.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Onthaal</title>
+        <author>
+            <name>Mathias Van Aken</name>
+        </author>
+        <link href="https://degrijzekat.be/eerstelijnshulp.html"/>
+        <id>https://degrijzekat.be/eerstelijnshulp.html</id>
+        <media:content url="https://degrijzekat.be/media/posts/7/img_0539.JPG" medium="image" />
+
+        <updated>2017-07-12T23:25:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://degrijzekat.be/media/posts/7/img_0539.JPG" alt="" />
+                    Vele organisaties voor kansarmen werken op meso- en macroniveau aan structuren. Dat is zeer noodzakelijk. Het nadeel is echter dat de individuele nood van mensen soms geen ruimte krijgt. Geregeld gebeurt het dat iemand na de activiteiten nablijft of op vrijdagnamiddag tijdens de permanentie een&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://degrijzekat.be/media/posts/7/img_0539.JPG" class="type:primaryImage" alt="" /></p>
+                <p>Vele organisaties voor kansarmen werken op meso- en macroniveau aan structuren. Dat is zeer noodzakelijk. Het nadeel is echter dat de individuele nood van mensen soms geen ruimte krijgt.</p>
+<p>Geregeld gebeurt het dat iemand na de activiteiten nablijft of op vrijdagnamiddag tijdens de permanentie een concrete vraag om hulp stelt: hulp bij het invullen van offici&euml;le documenten, een bemiddelingsgesprek na een ruzie in het gezin, contact met de (jeugd)politie.</p>
+<p>Voor een aantal jongeren (en leiders) uit de kinder- en tienerwerking is de band met de Grijze Kat een belangrijke steun &ndash; ook concreet. Vooral onze voorzitster steekt daar bescheiden en zonder al te veel ruchtbaarheid veel tijd in.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
