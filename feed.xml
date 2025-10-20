@@ -3,7 +3,7 @@
     <title>De Grijze Kat</title>
     <link href="https://degrijzekat.be/feed.xml" rel="self" />
     <link href="https://degrijzekat.be" />
-    <updated>2025-10-20T21:12:53+02:00</updated>
+    <updated>2025-10-20T21:16:15+02:00</updated>
     <author>
         <name>Mathias Van Aken</name>
     </author>
@@ -53,7 +53,7 @@
 <div class="post__iframe"><iframe loading="lazy" width="100%" height="450" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19985.574989430384!2d4.425143!3d51.233869!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3f7adfee1f493%3A0xad32b55e1b0a29e0!2sDamplein+12%2C+2060+Antwerpen%2C+Belgi%C3%AB!5e0!3m2!1snl!2sus!4v1508003192830" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 <h2>Contactformulier</h2>
 <p>Via het onderstaande formulier kan u met ons in contact treden.</p>
-<div class="container" style="padding-top: 20px;"><form style="width: 100%;" action="https://formsubmit.co/degrijzekat@broederschaprozenkrans.be" method="POST" target="_blank">
+<div class="container" style="padding-top: 20px;"><form style="width: 100%;" action="https://formsubmit.co/b6089f5e4130054928772c29dd00fd56" method="POST" target="_blank">
 <div class="form-group" style="margin-bottom: 15px;">
 <div class="form-row" style="display: flex; gap: 15px; margin-bottom: 15px; width: 100%;">
 <div class="col" style="padding: 0;"><input class="form-control" style="width: 100%;" required="" type="text" placeholder="Naam"></div>
