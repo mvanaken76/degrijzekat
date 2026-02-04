@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>De Grijze Kat</title>
+    <title>Club De Grijze Kat</title>
     <link href="https://degrijzekat.be/feed.xml" rel="self" />
     <link href="https://degrijzekat.be" />
-    <updated>2025-10-20T21:16:15+02:00</updated>
+    <updated>2026-02-04T10:12:05+01:00</updated>
     <author>
         <name>Mathias Van Aken</name>
     </author>
@@ -38,7 +38,7 @@
         <media:content url="https://degrijzekat.be/media/posts/13/2009-image0052.jpg" medium="image" />
 
         <updated>2017-10-14T19:55:03+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://degrijzekat.be/media/posts/13/2009-image0052.jpg" alt="" />
                     Verantwoordelijke Jo DriesDamplein 122060 Antwerpen03 233 48 25secretariaat [a] degrijzekat.be Kaart Contactformulier Via het onderstaande formulier kan u met ons in contact treden. Verzenden
@@ -76,7 +76,7 @@
         <media:content url="https://degrijzekat.be/media/posts/12/efft0037.JPG" medium="image" />
 
         <updated>2017-10-14T17:15:16+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://degrijzekat.be/media/posts/12/efft0037.JPG" alt="" />
                     Als je denkt ons op vrijwillige basis te kunnen helpen dan ben je altijd welkom. Schrijf gerust een e-mail. Het kan ook eenvoudiger door ons werk financieel te steunen via dit rekeningnummer: BE54 4127 0418 3197
@@ -101,7 +101,7 @@
             <category term="Wie_zijn_wij"/>
 
         <updated>2017-10-12T23:15:43+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://degrijzekat.be/media/posts/3/tekst-over-kat-1954.jpg" alt="" />
                     Een kat is taai En maakt niet veel lawaai Een kat dringt overal binnen En kan steeds opnieuw beginnen En wordt een kat eens groot Dan krijgt men ze niet gauw dood. Jeugdbewegingen hebben meestal een symbool. Wij houden het bij een eenvoudige straatkat, zonder&hellip;
@@ -114,7 +114,7 @@
 <p>Jeugdbewegingen hebben meestal een symbool. Wij houden het bij een eenvoudige straatkat, zonder adel of stamboom, die ergens in de huizenrij haar plan moet trekken, die taai is en veel kan verdragen, die in de harde levensstrijd nooit de moed verliest.</p>
 <p>Vele van onze jongens en meisjes hebben het moeilijk, thuis en op school. Dikwijls weten ze reeds vroeg wat ontbering is. Onze samenleving is niet mild voor hen...</p>
 <p>De Club &ldquo;De Grijze Kat&rdquo; wil nu nog altijd een organisatie met en voor kansarmen zijn. De oorspronkelijke christelijke inspiratie hebben we in die meer dan zestig jaar niet afgezworen en dat maakt ons enigszins apart in het landschap van de pluralistische Antwerpse welzijnsorganisaties.</p>
-<p><img loading="lazy" src="https://degrijzekat.be/media/posts/3/kat.jpg" alt="" width="292" height="418" sizes="(max-width: 48em) 100vw, 768px" srcset="https://degrijzekat.be/media/posts/3/responsive/kat-xs.jpg 300w ,https://degrijzekat.be/media/posts/3/responsive/kat-sm.jpg 480w ,https://degrijzekat.be/media/posts/3/responsive/kat-md.jpg 768w"></p>
+<p><img loading="lazy" src="https://degrijzekat.be/media/posts/3/kat.jpg" alt="" width="292" height="418" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://degrijzekat.be/media/posts/3/responsive/kat-xs.jpg 640w ,https://degrijzekat.be/media/posts/3/responsive/kat-sm.jpg 768w ,https://degrijzekat.be/media/posts/3/responsive/kat-md.jpg 1024w ,https://degrijzekat.be/media/posts/3/responsive/kat-lg.jpg 1366w ,https://degrijzekat.be/media/posts/3/responsive/kat-xl.jpg 1600w ,https://degrijzekat.be/media/posts/3/responsive/kat-2xl.jpg 1920w"></p>
             ]]>
         </content>
     </entry>
@@ -129,7 +129,7 @@
             <category term="Wie_zijn_wij"/>
 
         <updated>2017-10-12T23:15:18+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://degrijzekat.be/media/posts/2/2_priester1.jpg" alt="" />
                     In 1945 heeft pater Jan Cuijle, redemptorist, de "Straatjongensclub De Grijze Kat" opgericht. Hij nodigde jongeren uit die juist na de oorlog in de stad op straat zwierven, in zijn "clubhuis", oorspronkelijk een kelder van het klooster op het Hopland. Enkele jaren later vond de&hellip;
@@ -154,7 +154,7 @@
             <category term="Wie_zijn_wij"/>
 
         <updated>2017-10-12T23:14:17+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://degrijzekat.be/media/posts/1/GrijzeKat.jpg" alt="" />
                     Welkom Welkom op de webstek van Club De Grijze Kat VZW! Wij zijn een buurtwerking in Antwerpen-Noord, die zich specifiek richt op de zgn. "Vierde Wereld", lokale kansarmen. Wij nodigen de bezoeker van deze website uit om via deze website meer over ons te leren.
@@ -187,7 +187,7 @@
         <media:content url="https://degrijzekat.be/media/posts/5/img_3236.JPG" medium="image" />
 
         <updated>2017-09-12T23:24:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://degrijzekat.be/media/posts/5/img_3236.JPG" alt="" />
                     In onze werking naar de kinderen lopen we zeker niet met een grote boog om het geloof heen. Al sinds het ontstaan vieren we Allerheiligen, Kerstmis en Pasen eerst beneden in de kapel en dan boven aan de feesttafel. Iedereen is welkom &ndash; met respect&hellip;
@@ -211,7 +211,7 @@
         <media:content url="https://degrijzekat.be/media/posts/6/voedslbank_2-003.jpg" medium="image" />
 
         <updated>2017-08-12T23:24:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://degrijzekat.be/media/posts/6/voedslbank_2-003.jpg" alt="" />
                     Voedselbedeling Met de voedselbedeling bereiken wij een 80-tal gezinnen en alleenstaanden (+/- 250 personen) van zowel allochtone als autochtone afkomst. De bedeling gebeurt op donderdag om de 2 weken. Omdat de groep te groot is om samen te ontvangen, komt een eerste groep van 12.30&hellip;
@@ -240,7 +240,7 @@
         <media:content url="https://degrijzekat.be/media/posts/7/img_0539.JPG" medium="image" />
 
         <updated>2017-07-12T23:25:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://degrijzekat.be/media/posts/7/img_0539.JPG" alt="" />
                     Vele organisaties voor kansarmen werken op meso- en macroniveau aan structuren. Dat is zeer noodzakelijk. Het nadeel is echter dat de individuele nood van mensen soms geen ruimte krijgt. Geregeld gebeurt het dat iemand na de activiteiten nablijft of op vrijdagnamiddag tijdens de permanentie een&hellip;

@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "De Grijze Kat",
+    "title": "Club De Grijze Kat",
     "description": "",
     "home_page_url": "https://degrijzekat.be",
     "feed_url": "https://degrijzekat.be/feed.json",
@@ -60,7 +60,7 @@
             "url": "https://degrijzekat.be/waarom-een-kat.html",
             "title": "Waarom een kat?",
             "summary": "Een kat is taai En maakt niet veel lawaai Een kat dringt overal binnen En kan steeds opnieuw beginnen En wordt een kat eens groot Dan krijgt men ze niet gauw dood. Jeugdbewegingen hebben meestal een symbool. Wij houden het bij een eenvoudige straatkat, zonder&hellip;",
-            "content_html": "<p class=\"msg msg--highlight \">Een kat is taai<br>En maakt niet veel lawaai<br>Een kat dringt overal binnen<br>En kan steeds opnieuw beginnen<br>En wordt een kat eens groot<br>Dan krijgt men ze niet gauw dood.</p>\n<p>Jeugdbewegingen hebben meestal een symbool. Wij houden het bij een eenvoudige straatkat, zonder adel of stamboom, die ergens in de huizenrij haar plan moet trekken, die taai is en veel kan verdragen, die in de harde levensstrijd nooit de moed verliest.</p>\n<p>Vele van onze jongens en meisjes hebben het moeilijk, thuis en op school. Dikwijls weten ze reeds vroeg wat ontbering is. Onze samenleving is niet mild voor hen...</p>\n<p>De Club &ldquo;De Grijze Kat&rdquo; wil nu nog altijd een organisatie met en voor kansarmen zijn. De oorspronkelijke christelijke inspiratie hebben we in die meer dan zestig jaar niet afgezworen en dat maakt ons enigszins apart in het landschap van de pluralistische Antwerpse welzijnsorganisaties.</p>\n<p><img loading=\"lazy\" src=\"https://degrijzekat.be/media/posts/3/kat.jpg\" alt=\"\" width=\"292\" height=\"418\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://degrijzekat.be/media/posts/3/responsive/kat-xs.jpg 300w ,https://degrijzekat.be/media/posts/3/responsive/kat-sm.jpg 480w ,https://degrijzekat.be/media/posts/3/responsive/kat-md.jpg 768w\"></p>",
+            "content_html": "<p class=\"msg msg--highlight \">Een kat is taai<br>En maakt niet veel lawaai<br>Een kat dringt overal binnen<br>En kan steeds opnieuw beginnen<br>En wordt een kat eens groot<br>Dan krijgt men ze niet gauw dood.</p>\n<p>Jeugdbewegingen hebben meestal een symbool. Wij houden het bij een eenvoudige straatkat, zonder adel of stamboom, die ergens in de huizenrij haar plan moet trekken, die taai is en veel kan verdragen, die in de harde levensstrijd nooit de moed verliest.</p>\n<p>Vele van onze jongens en meisjes hebben het moeilijk, thuis en op school. Dikwijls weten ze reeds vroeg wat ontbering is. Onze samenleving is niet mild voor hen...</p>\n<p>De Club &ldquo;De Grijze Kat&rdquo; wil nu nog altijd een organisatie met en voor kansarmen zijn. De oorspronkelijke christelijke inspiratie hebben we in die meer dan zestig jaar niet afgezworen en dat maakt ons enigszins apart in het landschap van de pluralistische Antwerpse welzijnsorganisaties.</p>\n<p><img loading=\"lazy\" src=\"https://degrijzekat.be/media/posts/3/kat.jpg\" alt=\"\" width=\"292\" height=\"418\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://degrijzekat.be/media/posts/3/responsive/kat-xs.jpg 640w ,https://degrijzekat.be/media/posts/3/responsive/kat-sm.jpg 768w ,https://degrijzekat.be/media/posts/3/responsive/kat-md.jpg 1024w ,https://degrijzekat.be/media/posts/3/responsive/kat-lg.jpg 1366w ,https://degrijzekat.be/media/posts/3/responsive/kat-xl.jpg 1600w ,https://degrijzekat.be/media/posts/3/responsive/kat-2xl.jpg 1920w\"></p>",
             "image": "https://degrijzekat.be/media/posts/3/tekst-over-kat-1954.jpg",
             "author": {
                 "name": "Mathias Van Aken"
@@ -101,7 +101,7 @@
                    "Wie_zijn_wij"
             ],
             "date_published": "2017-10-12T23:14:17+02:00",
-            "date_modified": "2025-10-13T10:12:23+02:00"
+            "date_modified": "2026-02-04T10:12:05+01:00"
         },
         {
             "id": "https://degrijzekat.be/spiritualiteit.html",
